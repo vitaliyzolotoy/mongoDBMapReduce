@@ -1,0 +1,16 @@
+{
+  "name": "mongoDBMapReduce",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "dummy-json": "0.0.2",
+    "mongojs": "^0.18.2",
+    "cheerio": "*"
+  }
+}
